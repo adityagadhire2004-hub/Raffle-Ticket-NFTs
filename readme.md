@@ -22,3 +22,6 @@ To create a transparent, fair, and blockchain-verifiable raffle system where par
 5. Contract Address
 
 SP1234ABCD5678EFGH9012JKLM3456NOPQR.raffle-ticket-nft
+
+<img width="1919" height="1021" alt="Screenshot 2025-08-12 153901" src="https://github.com/user-attachments/assets/05db419e-8d12-4367-b48d-21c8aa8c7c38" />
+
